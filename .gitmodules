@@ -1,6 +1,6 @@
 [submodule "GitSubModuleFirst"]
 	path = GitSubModuleFirst
-	url = /GitSubModuleFirst
+	url = git@github.com:SoJiaN/GitTestSubModuleFirst.git
 [submodule "GitSubModuleSecond"]
 	path = GitSubModuleSecond
-	url = ./GitSubModuleSecond
+	url = git@github.com:SoJiaN/GitTestSubModuleSecond.git
