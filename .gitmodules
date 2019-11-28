@@ -1,0 +1,6 @@
+[submodule "GitSubModuleFirst"]
+	path = GitSubModuleFirst
+	url = /GitSubModuleFirst
+[submodule "GitSubModuleSecond"]
+	path = GitSubModuleSecond
+	url = ./GitSubModuleSecond
